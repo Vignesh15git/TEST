@@ -1,0 +1,7 @@
+first line
+secoend line
+<<<<<<< HEAD
+Third line
+=======
+3rd line 
+>>>>>>> slave
